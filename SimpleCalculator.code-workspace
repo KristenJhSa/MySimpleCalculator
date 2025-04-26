@@ -1,0 +1,10 @@
+{
+  "folders": [
+	{
+		"path": "../../VS Code/Anniversery Card"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Anniversery Card"
+  }
+}
